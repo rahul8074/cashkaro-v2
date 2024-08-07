@@ -1,0 +1,31 @@
+.hdfc {
+    transform: rotateX(7deg) rotateY(30deg) rotateZ(2deg);
+}
+
+.video1 {
+    object-fit: cover;
+    background-color: none;
+    border-radius: 60% 0 10% 0;
+    mix-blend-mode: multiply;
+  }
+
+  .textOutline {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+  }
+
+  .clip-top {
+
+  } 
+  
+  .clip-bottom {
+
+  } 
+
+  .trending {
+    background: white;
+    border-radius: 0 0 6rem 6rem;
+    box-shadow: 0  60px 150px rgba(195, 122, 4, 0.2); 
+    border-bottom: 1.5px solid white;
+}
+

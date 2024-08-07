@@ -1,0 +1,14 @@
+.btn-outer {
+    background: linear-gradient(to bottom, #fff, #656565);
+    border-radius: 6px;
+    padding: 2px;
+    min-width: 100px;
+}
+
+.btn-inner {
+    padding: 8px; 
+    border-radius: 2px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    color: white;
+    font-family: serif, "Georgia", "Times New Roman";
+}
+
